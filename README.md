@@ -1,6 +1,8 @@
 Laptop
 ======
 
+[![Join the chat at https://gitter.im/michal-kazmierczak/laptop](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/michal-kazmierczak/laptop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Laptop is a script to set up an OS X laptop for web development.
 
 It can be run multiple times on the same machine safely.
